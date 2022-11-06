@@ -29,7 +29,7 @@
          use:[
            'babel-loader',
            {
-             loader:'./loaders/tpl-loader',
+             loader:'./loader',
              options: {
                log: true
              }
